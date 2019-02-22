@@ -1,4 +1,4 @@
-# Richard-Home
+# Yao-Home
 This is my first repository
 
-Hello guys, I'm Richard. Welcome to my GitHub!
+Hello guys, I'm Yao. Welcome to my GitHub!
